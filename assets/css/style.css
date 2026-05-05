@@ -684,7 +684,7 @@ body {
 .disclaimer-text {
     font-size: 12px;
     opacity: 0.5;
-    line-height: 1.6;
+    lne-height: 1.6;
     border-top: 1px solid rgba(255,255,255,0.1);
-    padding-top: 20px
-
+    padding-top: 20px;
+}
