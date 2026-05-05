@@ -635,12 +635,3 @@ body {
     margin-bottom: 12px;
 }
 
-/* Yellow Box Size */
-.newsletter-box {
-    background-color: #FFC247;
-    color: #02033B;
-    padding: 40px;
-    border-radius: 40px;
-    width: 436px;
-    text-align: left;
-}
