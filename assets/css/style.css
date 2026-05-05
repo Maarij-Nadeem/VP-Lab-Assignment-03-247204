@@ -681,11 +681,4 @@ body {
 }
 
 /* Bottom Paragraph Disclaimer */
-.disclaimer-text {
-    font-size: 12px;
-    opacity: 0.5;
-    line-height: 1.6;
-    border-tp: 1px solid rgba(255,255,255,0.1);
-    padding-top: 20px;
-}
 
