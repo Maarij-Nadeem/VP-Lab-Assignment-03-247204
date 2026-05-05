@@ -644,11 +644,3 @@ body {
     width: 436px;
     text-align: left;
 }
-
-.input-group-custom {
-    display: flex;
-    background: white;
-    border-radius: 50px;
-    padding: 4px;
-    margin-top: 20px;
-}
